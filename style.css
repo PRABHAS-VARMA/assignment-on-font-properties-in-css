@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+#css{
+    font-variant: small-caps;
+    font-weight: 800;
+    font-style: oblique;
+    
+
+}
+.abc{
+    font-family: 'Poppins', sans-serif;
+    background-color: brown;
+}
+
+#css , #html , #js{
+    font-size: 15px;
+    
+}
